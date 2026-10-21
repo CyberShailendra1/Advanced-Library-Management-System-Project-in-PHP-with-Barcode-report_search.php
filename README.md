@@ -14,8 +14,8 @@
 - **Discover Date:** 2026-10-07
 - **Researcher:** Shailendra Mourya (CyberShailendra)
 - **Researcher Website:** https://cybershailendra.cyou
-- **Entry:** VDB-*****
-- **CVE ID:** CVE-2026-***
+- **Entry:** VDB-423077
+- **CVE ID:** CVE-2026-114039
 - **Test Environment:** Local VMware lab (CyberShailendra VM), Apache 2.4.58, PHP 8.0.30, MySQL ≥5.1 (MariaDB fork), Windows host
 - **Tool Chain:** Manual `curl`/Burp verification + `sqlmap` automated confirmation & dump
 
